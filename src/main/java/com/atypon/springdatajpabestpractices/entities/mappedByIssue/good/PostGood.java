@@ -1,4 +1,4 @@
-package com.atypon.springdatajpabestpractices.entities.good;
+package com.atypon.springdatajpabestpractices.entities.mappedByIssue.good;
 
 import jakarta.persistence.*;
 import java.util.ArrayList;

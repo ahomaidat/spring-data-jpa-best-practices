@@ -1,9 +1,9 @@
 package com.atypon.springdatajpabestpractices;
 
-import com.atypon.springdatajpabestpractices.entities.bad.PostBad;
-import com.atypon.springdatajpabestpractices.entities.bad.PostCommentBad;
-import com.atypon.springdatajpabestpractices.entities.good.PostGood;
-import com.atypon.springdatajpabestpractices.entities.good.PostCommentGood;
+import com.atypon.springdatajpabestpractices.entities.mappedByIssue.bad.PostBad;
+import com.atypon.springdatajpabestpractices.entities.mappedByIssue.bad.PostCommentBad;
+import com.atypon.springdatajpabestpractices.entities.mappedByIssue.good.PostGood;
+import com.atypon.springdatajpabestpractices.entities.mappedByIssue.good.PostCommentGood;
 import com.atypon.springdatajpabestpractices.util.SQLInterceptor;
 import jakarta.persistence.EntityManager;
 import org.junit.jupiter.api.*;
